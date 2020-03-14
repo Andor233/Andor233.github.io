@@ -6,7 +6,8 @@
       </figure>
     {% endif %}
     <div>
-      <h2 class="posts__text"><strong itemprop="name">{{ post.title }}</strong> — <span itemprop="description">{{ post.content | strip_html | split:'<!--break-->' | first, "" }}</span></h2>
+      <h2 class="posts__text"><strong itemprop="name">{{ post.title }}</strong> — <span itemprop="description">{{ post.content | strip_html | | split:'<!--break-->' | first }}</span></h2>
     </div>
   </a>
 </article>
+w

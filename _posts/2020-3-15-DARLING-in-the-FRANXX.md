@@ -23,19 +23,21 @@ tags:
 
 然后就是画面上。这也让我很失望。不是不好，其实可以说非常用心了。一个很容易注意到的点就是大量画幅的切换。`DitF`使用大量2.35：1的超宽画幅来强调剧情。
 
-![4](/assets/images/DARLING/4.jpg)
+![4](/assets/images/DARLING/4.jpg#full)
 
-同时光影安排也非常出色。![2](/assets/images/DARLING/2.png)
+同时光影安排也非常出色。
+
+![2](/assets/images/DARLING/2.png#full)
 
 > `labboratory`被斜过来的光照射，广主席的脑袋却在阴影中。
 
-![3](/assets/images/DARLING/3.png)
+![3](/assets/images/DARLING/3.png#full)
 
 > 广主席的脸被光线切割，突出了心中的反复与挣扎。
 
 如果仔细观察这样子的例子还有很多，但是打斗场面与色彩的平庸缺让人失望。在看完LOGO和预告之后我本来期望会有一个会非常频繁地使用红色与蓝色这两个主题色，因为这本来就是`TRIGGER`的强项。这一点在`天元突破`,`Kill la Kill`等作品中都很好的表现了出来。
 
-![5](/assets/images/DARLING/5.png)
+![5](/assets/images/DARLING/5.png#full)
 
 > 以情窦初开的少女恋情为主题的`宇宙巡警露露子`大量地使用粉色为主题色(这也是我最喜欢的动画)
 

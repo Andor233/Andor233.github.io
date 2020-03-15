@@ -3,7 +3,7 @@ layout: post
 title: "Drown Party"
 date: 2020-03-14
 description: 
-image: /assets/images/placeholder-6.jpg
+image: /assets/images/Drown/placeholder-6.jpg
 author: Mayhem Drown
 tags: 
   - About me

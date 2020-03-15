@@ -8,12 +8,12 @@ name: Mayhem Drown
 title: Drown Party
 
 description: >
-  写点什么
+  写点什么，交个朋友
 url: http://drown.party
 default_img: /assets/images/seo.jpg
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/mail.jpg
 formcarry: https://formcarry.com/s/2AwTVi-dpQCo
 
 # Disqus settings

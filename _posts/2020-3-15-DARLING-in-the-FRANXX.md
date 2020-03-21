@@ -19,7 +19,7 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5KN0_-HgWNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-致敬了无数摇滚前辈的`D City Rock`，来自`TeddyLoid`为`Panty & Stocking with Garterbelt`，由锦织哥哥担任人设。
+致敬了无数摇滚前辈的`D City Rock`，来自`TeddyLoid`为`Panty & Stocking with Garterbelt`作的曲，由锦织哥哥担任人设。
 
 接下来是画面上，也是一个让我很失望的点。虽然可以看出非常用心了一个很容易注意到的点就是大量画幅的切换。`DitF`使用大量2.35：1的超宽画幅来强调剧情。
 

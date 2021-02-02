@@ -8,31 +8,31 @@ author: Mayhem Drown
 tags: 
   - Write Something
 ---
-Twinkle, twinkle, little star, \
-How I wonder what you are ! \
-Up above the world so high, \
+Twinkle, twinkle, little star, <br>
+How I wonder what you are ! <br>
+Up above the world so high, <br>
 Like a diamond in the sky. 
 
 <!--break-->
 
-When the blazing sun is gone, \
-When he nothing shines upon, \
-Then you show your little light, \
+When the blazing sun is gone, <br>
+When he nothing shines upon, <br>
+Then you show your little light, <br>
 Twinkle, twinkle, all the night. 
 
-Then the trav'ller in the dark, \
-Thanks you for your tiny spark, \
-He could not see which way to go, \
+Then the trav'ller in the dark, <br>
+Thanks you for your tiny spark, <br>
+He could not see which way to go, <br>
 If you did not twinkle so.
 
-In the dark blue sky you keep, \
-And often thro' my curtains peep, \
-For you never shut your eye, \
+In the dark blue sky you keep, <br>
+And often thro' my curtains peep, <br>
+For you never shut your eye, <br>
 Till the sun is in the sky.
 
-'Tis your bright and tiny spark, \
-Lights the trav'ller in the dark : \
-Tho' I know not what you are, \
+'Tis your bright and tiny spark, <br>
+Lights the trav'ller in the dark : <br>
+Tho' I know not what you are, <br>
 Twinkle, twinkle, little star.
 
 “听到孩子们唱这首歌可真令人开心”，一颗小星星在深蓝色的夜幕中闪耀着光芒，对身边的同伴说到，“原来我们帮到了他们这么多！我还以为我们这么不起眼的光芒对于他们来说可有可无呢”。“是呀是呀，这可真令人开心”，其他小星星们也闪耀得更加勤快了。
